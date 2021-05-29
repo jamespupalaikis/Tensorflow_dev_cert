@@ -1,0 +1,7 @@
+Models to create for TF Cert Test
+
+- model that imports from JSON filetype
+-predictive text model
+-predictive time series model using conv and lstms/grus
+- use learningratescheduler callback
+- 
